@@ -39,7 +39,7 @@ Carga el diseño finalizado y probado en el FPGA físico. Esto se hace generalme
 ![Estados](https://github.com/GabrielCua11/MyFSM/blob/main/estados.png)
 
 ### Simulación en Logisim
-
+![Estados](https://github.com/GabrielCua11/MyFSM/blob/main/logisim.png)
 
 ### Guía para ver video
 ![Guía](https://github.com/GabrielCua11/MyFSM/blob/main/guia.png)
