@@ -33,7 +33,7 @@ Toma la netlist generada por la síntesis y la coloca y enruta dentro de la arqu
 Carga el diseño finalizado y probado en el FPGA físico. Esto se hace generalmente a través de un archivo de configuración, un archivo bitstream, que contiene toda la información necesaria para configurar los elementos programables del FPGA. Este archivo se transfiere al FPGA utilizando un programador o directamente desde un sistema embebido o computadora que está conectada al FPGA.
 
 ### Diagrama FSM
-
+![Texto alternativo](https://github.com/GabrielCua11/MyFSM/blob/main/diagrama.png)
 
 ### Estados
 
